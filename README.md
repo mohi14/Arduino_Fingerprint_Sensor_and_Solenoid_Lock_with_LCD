@@ -50,9 +50,4 @@ Based on the project by Tishin on Arduino Project Hub:  [Arduino Project Hub –
 
 ## ⚡ Circuit / Wiring Diagram
 
-Include a wiring image in your `images/` folder. Example:
-
-```markdown
-## ⚡ Circuit Diagram
-
 ![Circuit Diagram](images/circuit.png)
